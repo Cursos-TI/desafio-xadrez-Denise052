@@ -5,7 +5,8 @@ int main() {
     // Torre: Move-se 5 casas para a direita (usando for)
     printf("Movimento da Torre:\n");
     int t;
-    for (t = 1; t <= 5; t++) {
+    for (t = 1; t <= 5; t++) 
+    {
         printf("Direita\n");
     }
 
